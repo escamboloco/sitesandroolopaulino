@@ -192,6 +192,7 @@ function initScrollReveal() {
     return;
   }
 
+  const isMobile = window.matchMedia('(max-width: 768px)').matches;
   const observer = new IntersectionObserver(
     (entries) => {
       entries.forEach((entry) => {
@@ -201,7 +202,10 @@ function initScrollReveal() {
         }
       });
     },
-    { threshold: 0.15, rootMargin: '0px 0px -40px 0px' }
+    {
+      threshold: isMobile ? 0.05 : 0.15,
+      rootMargin: isMobile ? '0px' : '0px 0px -40px 0px',
+    }
   );
 
   reveals.forEach((el) => {
