@@ -28,5 +28,5 @@ const ANALYTICS_CONFIG = {
   ga4MeasurementId: '',
 
   /** Código de verificação do Search Console (apenas referência; o meta em index.html é obrigatório) */
-  googleSiteVerification: '',
+  googleSiteVerification: 'iS_hHJwWJFTYFYCy8376aNp6LLrviqG8ZaxzSI-YeLU',
 };

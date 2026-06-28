@@ -1,58 +1,60 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Página principal -->
   <url>
     <loc>https://sitesandroolopaulino.onrender.com/</loc>
-    <lastmod>2026-06-11</lastmod>
+    <lastmod>2026-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
+  <!-- Blog -->
   <url>
     <loc>https://sitesandroolopaulino.onrender.com/blog.html</loc>
-    <lastmod>2026-06-11</lastmod>
+    <lastmod>2026-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
+  <!-- Artigos — alta intenção (famílias e dependentes) -->
   <url>
     <loc>https://sitesandroolopaulino.onrender.com/artigos/meu-filho-e-dependente-quimico-o-que-fazer.html</loc>
-    <lastmod>2026-06-11</lastmod>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://sitesandroolopaulino.onrender.com/artigos/devo-internar-meu-familiar-dependente-quimico.html</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://sitesandroolopaulino.onrender.com/artigos/como-superar-vicio-em-drogas-e-alcool.html</loc>
+    <lastmod>2026-06-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://sitesandroolopaulino.onrender.com/artigos/como-ajudar-um-familiar-dependente-quimico.html</loc>
-    <lastmod>2026-06-11</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.85</priority>
-  </url>
-  <url>
-    <loc>https://sitesandroolopaulino.onrender.com/artigos/devo-internar-meu-familiar-dependente-quimico.html</loc>
-    <lastmod>2026-06-11</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.85</priority>
-  </url>
-  <url>
-    <loc>https://sitesandroolopaulino.onrender.com/artigos/como-superar-vicio-em-drogas-e-alcool.html</loc>
-    <lastmod>2026-06-11</lastmod>
+    <lastmod>2026-06-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://sitesandroolopaulino.onrender.com/artigos/tratamento-dependencia-quimica-sem-internacao.html</loc>
-    <lastmod>2026-06-11</lastmod>
+    <lastmod>2026-06-18</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://sitesandroolopaulino.onrender.com/artigos/como-parar-de-usar-drogas-primeiros-passos.html</loc>
-    <lastmod>2026-06-11</lastmod>
+    <lastmod>2026-06-18</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://sitesandroolopaulino.onrender.com/artigos/prevencao-a-recaida-dependencia-quimica.html</loc>
-    <lastmod>2026-06-11</lastmod>
+    <lastmod>2026-06-18</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
   </url>
 </urlset>
