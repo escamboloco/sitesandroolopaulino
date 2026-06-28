@@ -1,4 +1,4 @@
-User-agent: *
+﻿User-agent: *
 Allow: /
 Allow: /artigos/
 Allow: /blog.html
@@ -8,4 +8,4 @@ Allow: /imagens/
 Disallow: /.git/
 Disallow: /.gitignore
 
-Sitemap: https://www.sandroolopaulino.com.br/sitemap.xml
+Sitemap: https://sitesandroolopaulino.onrender.com/sitemap.xml

@@ -1,4 +1,4 @@
-/**
+﻿/**
  * ═══════════════════════════════════════════════════════════════
  *  CONFIGURAÇÃO GOOGLE — edite apenas este arquivo
  * ═══════════════════════════════════════════════════════════════
@@ -14,13 +14,13 @@
  *  ─────────────────────
  *  1. Acesse https://search.google.com/search-console
  *  2. Adicionar propriedade → Prefixo do URL:
- *     https://www.sandroolopaulino.com.br
+ *     https://sitesandroolopaulino.onrender.com
  *  3. Verificação → "Tag HTML" → copie o código do content=""
  *  4. Cole o MESMO código em:
  *     - googleSiteVerification (abaixo)
  *     - index.html → meta name="google-site-verification" content=""
  *  5. Após verificar, vá em Sitemaps e envie:
- *     https://www.sandroolopaulino.com.br/sitemap.xml
+ *     https://sitesandroolopaulino.onrender.com/sitemap.xml
  *
  */
 const ANALYTICS_CONFIG = {
