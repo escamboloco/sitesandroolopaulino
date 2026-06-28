@@ -1,39 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.sandroolopaulino.com.br/</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>monthly</changefreq>
+    <lastmod>2026-06-11</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.sandroolopaulino.com.br/blog.html</loc>
-    <lastmod>2026-06-15</lastmod>
+    <lastmod>2026-06-11</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.sandroolopaulino.com.br/artigos/meu-filho-e-dependente-quimico-o-que-fazer.html</loc>
+    <lastmod>2026-06-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://www.sandroolopaulino.com.br/artigos/como-ajudar-um-familiar-dependente-quimico.html</loc>
-    <lastmod>2026-06-15</lastmod>
+    <lastmod>2026-06-11</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://www.sandroolopaulino.com.br/artigos/devo-internar-meu-familiar-dependente-quimico.html</loc>
+    <lastmod>2026-06-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://www.sandroolopaulino.com.br/artigos/como-superar-vicio-em-drogas-e-alcool.html</loc>
+    <lastmod>2026-06-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.sandroolopaulino.com.br/artigos/tratamento-dependencia-quimica-sem-internacao.html</loc>
-    <lastmod>2026-06-15</lastmod>
+    <lastmod>2026-06-11</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.sandroolopaulino.com.br/artigos/como-parar-de-usar-drogas-primeiros-passos.html</loc>
-    <lastmod>2026-06-15</lastmod>
+    <lastmod>2026-06-11</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.sandroolopaulino.com.br/artigos/prevencao-a-recaida-dependencia-quimica.html</loc>
-    <lastmod>2026-06-15</lastmod>
+    <lastmod>2026-06-11</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
 </urlset>

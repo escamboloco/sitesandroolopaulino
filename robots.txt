@@ -1,4 +1,11 @@
 User-agent: *
 Allow: /
+Allow: /artigos/
+Allow: /blog.html
+Allow: /imagens/
+
+# Bloquear arquivos de desenvolvimento (se existirem no servidor)
+Disallow: /.git/
+Disallow: /.gitignore
 
 Sitemap: https://www.sandroolopaulino.com.br/sitemap.xml

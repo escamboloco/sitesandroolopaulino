@@ -622,6 +622,75 @@ ul { list-style: none; }
   transform: rotate(-4deg) scale(1.05);
 }
 
+/* ---- Para quem (SEO) ---- */
+.para-quem {
+  background: var(--color-primary);
+  color: rgba(255, 255, 255, 0.88);
+}
+
+.para-quem .section__eyebrow { color: var(--color-accent-soft); }
+.para-quem .section__title { color: #fff; }
+.para-quem .section__desc { color: rgba(255, 255, 255, 0.72); margin-inline: auto; }
+
+.para-quem__grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: var(--space-md);
+}
+
+.para-quem__card {
+  padding: var(--space-lg);
+  background: rgba(255, 255, 255, 0.06);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: var(--radius-lg);
+  transition: var(--transition);
+}
+
+.para-quem__card:hover {
+  background: rgba(255, 255, 255, 0.1);
+  border-color: rgba(196, 162, 101, 0.4);
+  transform: translateY(-4px);
+}
+
+.para-quem__card h3 {
+  font-family: var(--font-display);
+  font-size: 1.35rem;
+  font-weight: 600;
+  color: #fff;
+  margin-bottom: var(--space-sm);
+  line-height: 1.3;
+}
+
+.para-quem__card p {
+  font-size: 0.9375rem;
+  line-height: 1.7;
+  margin-bottom: var(--space-sm);
+}
+
+.para-quem__card ul {
+  margin-bottom: var(--space-md);
+  padding-left: 1.1rem;
+  list-style: disc;
+}
+
+.para-quem__card li {
+  font-size: 0.875rem;
+  color: rgba(255, 255, 255, 0.75);
+  margin-bottom: 0.35rem;
+}
+
+.para-quem__link {
+  display: inline-flex;
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: var(--color-accent-soft);
+  transition: var(--transition);
+}
+
+.para-quem__link:hover {
+  color: #fff;
+}
+
 /* ---- Jornada ---- */
 .jornada {
   background:
@@ -1367,6 +1436,10 @@ ul { list-style: none; }
 
   .servicos__grid {
     grid-template-columns: repeat(2, 1fr);
+  }
+
+  .para-quem__grid {
+    grid-template-columns: 1fr;
   }
 
   .videos__grid {
